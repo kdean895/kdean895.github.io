@@ -29,7 +29,7 @@ function App() {
 function Header() {
     return (
         <header>
-            <h1>John Doe's Portfolio</h1>
+            <h1>Kevin Munkres' Portfolio</h1>
             <nav>
                 <ul>
                     <li><a href="#projects">Projects</a></li>
@@ -114,7 +114,7 @@ function Contact() {
 function Footer() {
     return (
         <footer>
-            <p>&copy; 2024 John Doe. All rights reserved.</p>
+            <p>&copy; 2024 Kevin Munkres. All rights reserved.</p>
         </footer>
     );
 }
